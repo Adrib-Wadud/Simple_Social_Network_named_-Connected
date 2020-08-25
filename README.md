@@ -14,3 +14,5 @@ After creating an account, the user can make and edit his/her profile and also v
 Profile info contains education, experiences, current status, and a gravatar(Profile picture). 
 
 Users who have an account can also create/edit posts and, comment/like on posts made by other users. Finally, the user can delete his/her posts, comments, and likes and also permanently delete the account on demand.
+
+![](readme_images/Comments.png)
